@@ -1,0 +1,4 @@
+Endpoint: mysqlserver3210265.database.windows.net
+Username: examiner
+Password: Letmein123
+Database: ExercisesDatabase
